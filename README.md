@@ -11,10 +11,6 @@ Skills: Backend[ Rust, Python, C,C++, C#, Java, Javascript], Frontend[HTML, CSS,
 - ⚡ Fun fact: Structs and Traits are better than oops 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kuroakumanoir)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuroakumanoir)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kuroakumanoir&show_icons=true)  
