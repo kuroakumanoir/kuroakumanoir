@@ -1,14 +1,5 @@
 ### Hi there 👋, I am Kuro
-#### Somethings about me :
-I am a first year student enrolled in a computer science engineering course. 
 
-Skills: Backend[ Rust, Python, C,C++, C#, Java, Javascript], Frontend[HTML, CSS, Flutter, Tailwind]
-
-- 🔭 I’m currently working on various backend technologies. 
-- 🌱 I’m currently learning Rust and AI\ML 
-- 💬 Ask me about some programming jokes 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Structs and Traits are better than oops 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
